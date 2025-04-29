@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: CHURCHES_DB
+    schema: CHURCHES_SCHEMA
+    tables:
+      - name: CHURCHES_RAW
